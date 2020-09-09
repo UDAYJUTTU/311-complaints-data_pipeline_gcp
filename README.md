@@ -8,5 +8,5 @@
 ## Pipeline Overview
 
    
-| !Screenshot (181).png|
+| !(Screenshot (181).png)|
 | :--: |
