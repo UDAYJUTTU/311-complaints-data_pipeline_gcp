@@ -8,16 +8,13 @@
 ### Pipeline Overview
 
    
-| ![Design Overview](pipeline.png)||
-| :--: |
+| ![Design Overview](pipeline.png)|
 
 ### Conclusion analyzed the results using the POWERBI
 
-| ![Design Overview](powerbi2.png)||
-| :--: |
+| ![Design Overview](powerbi2.png)|
 
 
-| ![Design Overview](powerbi_2.png)||
-| :--: |
+| ![Design Overview](powerbi_2.png)|
 
 ### Visualization shows the complaints analysis with vaious filter using the POWER BI 
